@@ -1,0 +1,21 @@
+{
+    "show-label": {
+        "type": "switch",
+        "default": false,
+        "description": "Show label text next to the icon",
+        "value": true
+    },
+    "label-text": {
+        "type": "entry",
+        "default": "",
+        "description": "Label text",
+        "value": "MacMini"
+    },
+    "icon-path": {
+        "type": "entry",
+        "default": "/usr/share/icons/WhiteSur-dark/folder-apple.svg",
+        "description": "Path to Apple icon SVG/PNG for the applet button",
+        "value": "/usr/share/icons/WhiteSur-dark/places@2x/16/folder-apple.svg"
+    },
+    "__md5__": "fbddf368321d53e19b031209002cf3ef"
+}
